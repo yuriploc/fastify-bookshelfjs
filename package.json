@@ -24,7 +24,7 @@
   "homepage": "https://github.com/butlerx/fastify-bookshelfjs#readme",
   "dependencies": {
     "bookshelf": "^0.15.1",
-    "fastify-plugin": "^1.6.0",
+    "fastify-plugin": "^2.1.0",
     "knex": "^0.19.1"
   },
   "devDependencies": {
