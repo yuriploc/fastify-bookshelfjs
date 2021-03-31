@@ -30,6 +30,6 @@
   "devDependencies": {
     "fastify": ">=2.2.0",
     "sqlite3": "^4.0.9",
-    "tap": "^14.6.1"
+    "tap": "^15.0.0"
   }
 }
